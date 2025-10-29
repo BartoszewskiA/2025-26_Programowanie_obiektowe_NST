@@ -1,0 +1,6 @@
+Zalogowano uruchomienie programu
+Zalogowano zakonczenie programu
+Start: 17.10.2025 16:41:53
+Stop: 17.10.2025 16:42:2
+Start: 17.10.2025 16:42:42
+Stop: 17.10.2025 16:42:45
